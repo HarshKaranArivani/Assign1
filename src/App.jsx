@@ -6,6 +6,7 @@ import * as THREE from "three";
 import { TextureLoader } from "three";
 
 // List of textures to load
+// vjbnkfcbweiuf
 const textures = [
   "/textures/landscape1.jpg",
   "/textures/landscape2.jpg",
